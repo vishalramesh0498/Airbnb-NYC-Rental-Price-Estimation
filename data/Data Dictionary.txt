@@ -1,0 +1,31 @@
+id - Unique identifier for each listing
+
+name - Name of the listing
+
+host_id - Unique identifier for each host
+
+host_name - Name of the host
+
+neighbourhood_group - Geographic region of the listing (Bronx, Brooklyn, Manhattan, Queens, Staten Island)
+
+neighbourhood - Specific neighborhood of the listing
+
+latitude - Latitude coordinate of the listing
+
+longitude - Longitude coordinate of the listing
+
+room_type - Type of room offered (Entire home/apt, Private room, Shared room)
+
+price - Price per night for the listing
+
+minimum_nights - Minimum number of nights required for a reservation
+
+number_of_reviews - Total number of reviews for the listing
+
+last_review - Date of the last review for the listing
+
+reviews_per_month - Average number of reviews per month for the listing
+
+calculated_host_listings_count - Total number of listings for the host
+
+availability_365 - Number of days the listing is available for booking in a year.
